@@ -10,18 +10,16 @@ By dividing the user interface into reusable components, React makes it easier t
 ## Install
 To install the grade calculator app, you will need to follow these steps:
 
-Make sure you have Node.js and npm (the Node.js package manager) installed on your computer. You can download Node.js from the official website
+1. Make sure you have Node.js and npm (the Node.js package manager) installed on your computer. You can download Node.js from the official website
 (https://nodejs.org/) and follow the instructions to install it.
 
-Clone the grade calculator repository from GitHub to your local machine. You can do this by running the following command in your terminal:
+2. Clone the grade calculator repository from GitHub to your local machine. You can do this by running the following command in your terminal:
+### *git clone https://github.com/your-username/grade-calculator.git* </br> 
 
-### *git clone https://github.com/your-username/grade-calculator.git*
-Navigate to the root directory of the grade calculator app on your local machine. You can do this by running the following command in your terminal:
-
+3. Navigate to the root directory of the grade calculator app on your local machine. You can do this by running the following command in your terminal:
 ### *cd grade-calculator*
-Install the dependencies required by the app by running the following command in your terminal:
+4. Install the dependencies required by the app by running the following command in your terminal:
 ### *npm install*
-Run the app in development mode by running the following command in your terminal:
-
+5. Run the app in development mode by running the following command in your terminal:
 ### *npm start*
 This will start the development server and open the app in your default web browser. You should now be able to interact with the grade calculator app in your browser.
